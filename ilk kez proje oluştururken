@@ -1,0 +1,30 @@
+git init -- ilk kez proje oluştururken
+git add <file>
+git add . (all)
+git commit -m 'aciklama'
+git status
+git diff
+git checkout branchName
+git push
+git pull
+git clone
+
+###########################
+
+
+…or create a new repository on the command line
+
+echo "# Proje" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BatuhanUmay/Proje.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/BatuhanUmay/Proje.git
+git branch -M main
+git push -u origin main
+
