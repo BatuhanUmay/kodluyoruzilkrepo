@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #C34340;
+}
+
+h2 {
+    color: #A35FD6;
+}
+
+h3 {
+    color: #C4AF58;
+}
+
+.resim {
+    width: 250px;
+    height: 250px;
+}
+
+.solHiza {
+    text-align: left;
+}
+
